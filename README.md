@@ -54,20 +54,30 @@ Imagine checking your Gmail and seeing a complex email that needs a careful resp
 
 ## 🧩 How to Upload & Use the Chrome Extension
 
---Download or Clone the Extension Folder
-Make sure all extension files (manifest.json, JS, HTML, etc.) are in a single folder.
+Follow these quick steps to manually install and use the Smart Email Assistant Chrome Extension:
 
---Open Chrome and Go to Extensions
-Navigate to: chrome://extensions/
+1. 📁 **Download or Clone the Extension Folder**  
+   Ensure all necessary files (`manifest.json`, JavaScript, HTML, etc.) are in a single folder.
 
---Enable Developer Mode
-Toggle the "Developer mode" switch at the top-right.
+2. 🌐 **Open Chrome Extensions Page**  
+   In your Chrome browser, go to:  
+   `chrome://extensions/`
 
---Click on "Load unpacked"
-Select the folder containing your extension files.
+3. 🛠️ **Enable Developer Mode**  
+   Toggle the **"Developer mode"** switch in the top-right corner of the page.
 
---Use the Extension
-Once loaded, it will appear in your extensions bar. Click the icon to start using it in Gmail or supported pages!
+4. 📂 **Load Unpacked Extension**  
+   Click on **"Load unpacked"** and select the folder where your extension files are located.
+
+5. 🚀 **Start Using the Extension**  
+   Once installed, the extension icon will appear in your Chrome toolbar.  
+   Click it to open the assistant and start generating smart email replies directly inside Gmail!
+
+> ✅ *Note: Make sure you are logged into Gmail and have an open email thread to see it in action.*
+
+---
+
+
 
 ---
 
