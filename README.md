@@ -1,4 +1,5 @@
 💌 Smart Email Assistant — Your Personal AI Email Writer
+
 Smart Email Assistant is a powerful full-stack web application designed to revolutionize the way you manage and reply to emails. Built using Spring Boot, React, and the Gemini API, this tool intelligently analyzes your emails and generates accurate, well-structured replies — in any tone or style you choose — with just a single click.
 
 Whether you're drafting professional responses, casual replies, or personalized messages, this assistant saves time, reduces effort, and eliminates the hassle of writing emails from scratch.
