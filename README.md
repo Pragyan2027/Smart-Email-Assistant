@@ -52,12 +52,22 @@ Imagine checking your Gmail and seeing a complex email that needs a careful resp
 
 ---
 
-## 🚀 What's Next?
+## 🧩 How to Upload & Use the Chrome Extension
 
-- [ ] Add multi-language support  
-- [ ] Enhance personalization based on user profile  
-- [ ] Integrate with Outlook & other email platforms  
-- [ ] Provide voice-to-text email drafting  
+--Download or Clone the Extension Folder
+Make sure all extension files (manifest.json, JS, HTML, etc.) are in a single folder.
+
+--Open Chrome and Go to Extensions
+Navigate to: chrome://extensions/
+
+--Enable Developer Mode
+Toggle the "Developer mode" switch at the top-right.
+
+--Click on "Load unpacked"
+Select the folder containing your extension files.
+
+--Use the Extension
+Once loaded, it will appear in your extensions bar. Click the icon to start using it in Gmail or supported pages!
 
 ---
 
