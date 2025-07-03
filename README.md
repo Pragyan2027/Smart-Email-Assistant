@@ -66,12 +66,6 @@ Imagine checking your Gmail and seeing a complex email that needs a careful resp
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome! If you’d like to improve this project — whether it’s code, docs, UI, or performance — feel free to fork and submit a PR.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
