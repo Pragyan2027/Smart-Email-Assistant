@@ -1,5 +1,7 @@
 # 💌 Smart Email Assistant — Your Personal AI Email Writer
 
+![Smart Email Assistant Screenshot](./Screenshot%202025-07-03%20161524.png)
+
 **Smart Email Assistant** is a powerful full-stack web application designed to revolutionize the way you manage and reply to emails. Built using **Spring Boot**, **React**, and the **Gemini API**, this tool intelligently analyzes your emails and generates accurate, well-structured replies — in **any tone or style you choose** — with just a single click.
 
 Whether you're drafting **professional responses**, **casual replies**, or **personalized messages**, this assistant saves time, reduces effort, and eliminates the hassle of writing emails from scratch.
@@ -54,31 +56,26 @@ Imagine checking your Gmail and seeing a complex email that needs a careful resp
 
 ## 🧩 How to Upload & Use the Chrome Extension
 
-Follow these quick steps to manually install and use the Smart Email Assistant Chrome Extension:
-
 1. 📁 **Download or Clone the Extension Folder**  
-   Ensure all necessary files (`manifest.json`, JavaScript, HTML, etc.) are in a single folder.
-
-2. 🌐 **Open Chrome Extensions Page**  
-   In your Chrome browser, go to:  
-   `chrome://extensions/`
-
+2. 🌐 **Go to Chrome Extensions Page:** `chrome://extensions/`  
 3. 🛠️ **Enable Developer Mode**  
-   Toggle the **"Developer mode"** switch in the top-right corner of the page.
+4. 📂 **Click 'Load unpacked' and select your extension folder**  
+5. 🚀 **Start using the assistant in Gmail**
 
-4. 📂 **Load Unpacked Extension**  
-   Click on **"Load unpacked"** and select the folder where your extension files are located.
-
-5. 🚀 **Start Using the Extension**  
-   Once installed, the extension icon will appear in your Chrome toolbar.  
-   Click it to open the assistant and start generating smart email replies directly inside Gmail!
-
-> ✅ *Note: Make sure you are logged into Gmail and have an open email thread to see it in action.*
+> ✅ *Make sure you're logged into Gmail and have an open email thread to see the reply suggestions in action.*
 
 ---
 
+## 🤝 Contributing
 
+Pull requests are welcome! If you’d like to improve this project — whether it’s code, docs, UI, or performance — feel free to fork and submit a PR.
 
 ---
 
-Feel free to **fork**, **explore**, or **contribute** to this project if you're passionate about **productivity tools**, **AI integration**, or **modern web development**! 😊
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+_✨ Let's make inboxes smarter — one email at a time!_
